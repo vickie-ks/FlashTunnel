@@ -15,12 +15,6 @@ Welcome to FlashTunnel, the premier solution for secure, private browsing direct
 
 To use FlashTunnel, simply visit our website and activate the VPN with a single click. It’s that easy—no setup, no hassle.
 
-## Technologies
-
-FlashTunnel is built with the following technologies:
-- **Frontend:** Ember.js for a responsive and intuitive user interface.
-- **Backend:** Python using Flask for a lightweight, efficient server-side application.
-
 ## Contribution Guidelines
 
 Interested in contributing? I love to collaborate with developers to enhance FlashTunnel’s capabilities. For support, email me at [vigneshrajan2022@example.com](mailto:vigneshrajan2022@example.com).
