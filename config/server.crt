@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            20:8f:b3:3d:92:e9:c7:79:d6:97:39:af:75:c8:96:53
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=FlashTunnel
+        Validity
+            Not Before: May 29 00:35:16 2024 GMT
+            Not After : Sep  1 00:35:16 2026 GMT
+        Subject: CN=FlashTunnel
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8c:de:fd:49:36:0a:8b:57:42:97:98:96:cc:99:
+                    f2:32:63:a6:8a:e8:24:7d:4a:cf:6d:89:3d:c4:c1:
+                    df:75:f8:06:ec:54:ca:2a:5c:3f:f0:93:44:23:92:
+                    c2:9a:5f:13:44:50:5e:9e:42:ef:ed:21:27:03:6f:
+                    f0:09:ff:3c:af:f7:9a:ec:99:d0:e1:9d:fc:25:de:
+                    60:8a:09:71:26:6c:13:43:7a:3b:ec:98:6c:b0:1a:
+                    08:8d:53:4f:08:aa:2a:3c:8e:9d:28:b8:ea:70:0f:
+                    30:26:ee:1f:4d:a9:67:f5:32:b7:55:b3:f7:9b:2e:
+                    fd:e1:6a:cd:7a:a9:6e:d5:68:a6:d7:52:e9:a6:19:
+                    af:b1:d4:b4:78:e8:40:83:bd:68:e4:9b:9b:63:9d:
+                    70:02:88:23:7a:15:28:18:ff:6c:4d:c2:99:86:4f:
+                    8f:f6:c8:37:9e:ed:66:f6:38:63:cf:12:4a:76:d1:
+                    fd:80:7a:ac:ce:b8:29:9a:6a:02:50:61:a0:b3:9e:
+                    4f:87:6e:01:4b:34:ab:7f:d8:b3:a7:7a:f1:6c:0e:
+                    42:e2:95:71:1f:3f:27:fb:14:8c:cc:08:45:bc:03:
+                    5a:2a:6c:27:66:ae:3f:fd:13:5f:34:2d:98:3a:58:
+                    9e:8f:c5:ee:47:07:7a:58:45:a9:c3:d7:f4:5e:be:
+                    eb:13
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                CE:D3:33:61:89:1F:95:3C:5A:27:E7:F2:A9:8E:76:1B:E9:CD:8E:54
+            X509v3 Authority Key Identifier: 
+                keyid:86:EC:83:16:A2:11:2C:BE:E9:DA:72:42:A0:33:7E:3C:01:42:1A:F9
+                DirName:/CN=FlashTunnel
+                serial:75:40:5A:87:AD:7D:B0:41:E9:1B:D1:0F:05:85:FC:F6:64:B6:FF:29
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:FlashTunnel
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        2b:0c:b8:3f:22:c1:22:4d:01:56:4a:29:a8:97:6e:78:2d:3e:
+        02:6f:fc:76:57:de:65:ef:21:14:59:37:60:07:91:4c:50:d1:
+        24:da:28:56:63:ec:fc:b9:60:85:79:a2:72:50:10:c9:2f:5b:
+        df:83:a7:d3:65:d5:6d:d0:0a:d9:de:d7:76:f6:64:2e:a3:dc:
+        3c:c6:5b:01:b5:60:f6:77:65:5c:10:c0:3f:68:33:e3:13:ff:
+        b0:20:cd:ed:74:f7:0d:64:7e:c0:ec:96:9c:c0:81:61:28:37:
+        ff:2e:4a:54:83:f2:ff:4a:af:c4:e8:c2:8a:93:e5:88:cc:e7:
+        31:80:41:5a:3d:67:32:d8:9c:49:f0:93:6c:93:c7:10:b8:08:
+        29:78:a0:f0:da:f7:c9:c4:a4:0e:7e:b3:75:70:2a:a0:92:a1:
+        68:74:1f:a9:8e:78:5e:d0:6b:06:a8:f6:7b:c0:01:ba:85:9e:
+        a8:f5:05:1e:2d:b8:e5:2b:48:09:c8:22:3b:20:e9:7a:15:8f:
+        12:06:9b:19:bc:ec:bc:4d:f4:ea:0a:47:6e:f4:90:07:e7:50:
+        0c:50:ed:ad:f3:76:7e:7f:f9:0e:a2:eb:2f:34:20:ca:3d:c9:
+        2b:1b:78:76:8d:b2:4d:6a:6f:6d:a9:6a:a5:06:0b:98:d7:d2:
+        4f:e1:3d:36
+-----BEGIN CERTIFICATE-----
+MIIDcTCCAlmgAwIBAgIQII+zPZLpx3nWlzmvdciWUzANBgkqhkiG9w0BAQsFADAW
+MRQwEgYDVQQDDAtGbGFzaFR1bm5lbDAeFw0yNDA1MjkwMDM1MTZaFw0yNjA5MDEw
+MDM1MTZaMBYxFDASBgNVBAMMC0ZsYXNoVHVubmVsMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAjN79STYKi1dCl5iWzJnyMmOmiugkfUrPbYk9xMHfdfgG
+7FTKKlw/8JNEI5LCml8TRFBenkLv7SEnA2/wCf88r/ea7JnQ4Z38Jd5giglxJmwT
+Q3o77JhssBoIjVNPCKoqPI6dKLjqcA8wJu4fTaln9TK3VbP3my794WrNeqlu1Wim
+11LpphmvsdS0eOhAg71o5JubY51wAogjehUoGP9sTcKZhk+P9sg3nu1m9jhjzxJK
+dtH9gHqszrgpmmoCUGGgs55Ph24BSzSrf9izp3rxbA5C4pVxHz8n+xSMzAhFvANa
+KmwnZq4//RNfNC2YOliej8XuRwd6WEWpw9f0Xr7rEwIDAQABo4G6MIG3MAkGA1Ud
+EwQCMAAwHQYDVR0OBBYEFM7TM2GJH5U8Wifn8qmOdhvpzY5UMFEGA1UdIwRKMEiA
+FIbsgxaiESy+6dpyQqAzfjwBQhr5oRqkGDAWMRQwEgYDVQQDDAtGbGFzaFR1bm5l
+bIIUdUBah619sEHpG9EPBYX89mS2/ykwEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYD
+VR0PBAQDAgWgMBYGA1UdEQQPMA2CC0ZsYXNoVHVubmVsMA0GCSqGSIb3DQEBCwUA
+A4IBAQArDLg/IsEiTQFWSimol254LT4Cb/x2V95l7yEUWTdgB5FMUNEk2ihWY+z8
+uWCFeaJyUBDJL1vfg6fTZdVt0ArZ3td29mQuo9w8xlsBtWD2d2VcEMA/aDPjE/+w
+IM3tdPcNZH7A7JacwIFhKDf/LkpUg/L/Sq/E6MKKk+WIzOcxgEFaPWcy2JxJ8JNs
+k8cQuAgpeKDw2vfJxKQOfrN1cCqgkqFodB+pjnhe0GsGqPZ7wAG6hZ6o9QUeLbjl
+K0gJyCI7IOl6FY8SBpsZvOy8TfTqCkdu9JAH51AMUO2t83Z+f/kOousvNCDKPckr
+G3h2jbJNam9tqWqlBguY19JP4T02
+-----END CERTIFICATE-----
