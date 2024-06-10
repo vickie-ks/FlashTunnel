@@ -2,19 +2,24 @@
   "manifest_version": 3,
   "name": "FlashTunnel",
   "version": "1.0",
-  "description": "Easily toggle FlashTunnel for your browser.",
+  "description": "FlashTunnel Extension",
   "permissions": [
     "proxy",
     "storage"
-  ],
-  "host_permissions": [
-    "<all_urls>"
   ],
   "background": {
     "service_worker": "background.js"
   },
   "action": {
-    "default_popup": "popup.html",
-    "default_icon": "icon.png"
+    "default_title": "FlashTunnel"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "externally_connectable": {
+    "matches": [
+      "*://localhost/*",
+      "*://127.0.0.1/*"
+    ]
   }
 }
